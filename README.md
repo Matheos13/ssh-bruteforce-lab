@@ -1,6 +1,6 @@
 # SSH Brute-Force Attempt #1
 
-Author: Matheou13
+Author: Mathaios Mathaiou
 
 Python script that tries username/password combos from a wordlist against
 an SSH server. Made for a cybersecurity course exercise on credential
